@@ -3,7 +3,7 @@ name: My Workflow
 on:
   push:
     branches:
-      - zeeshan
+
 
 jobs:
   my_job:
